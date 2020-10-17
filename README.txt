@@ -104,4 +104,4 @@ the application has been modified :
 
 3 - instead of just showing my favorite movies I am getting the top rated movies from imdb website using external python library.
 
-4 - I checked all the files againist PEP8 and all of thm passed without any errors.
+4 - I checked all the files againist PEP8 and all of thm passed without any errors.this is great
